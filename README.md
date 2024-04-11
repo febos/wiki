@@ -8,9 +8,9 @@
 
 [ARTEM](https://github.com/david-bogdan-r/ARTEM) - a tool for aligning RNA 3D modules. DOI: [10.1093/nar/gkad605](https://doi.org/10.1093/nar/gkad605)
 
-[ARTEMIS](https://github.com/david-bogdan-r/ARTEMIS) - a tool for topology-independent RNA 3D Structure Alignment. DOI: [TODO](#)
+[ARTEMIS](https://github.com/david-bogdan-r/ARTEMIS) - a tool for topology-independent RNA 3D Structure Alignment. DOI: [10.1101/2024.04.06.588371](https://doi.org/10.1101/2024.04.06.588371)
 
-## Other tools and datasets
+## Other Tools and Datasets
 
 [urslib2](https://github.com/febos/urslib2) - a Python library for processing RNA structure data from PDB/mmCIF files & DSSR annotations. DOI: [10.1093/nar/gkad605](https://doi.org/10.1093/nar/gkad605)
 
