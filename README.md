@@ -18,8 +18,10 @@
 
 # RNA-related Wikipedia pages
 
-## TODO
+https://en.wikipedia.org/wiki/Structural_alignment_software
 
-# Not our works, but still good
+https://en.wikipedia.org/wiki/List_of_RNA_structure_prediction_software
+
+# Not our works, but still worth it :)
 
 ## TODO
