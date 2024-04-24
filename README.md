@@ -30,6 +30,22 @@ https://en.wikipedia.org/wiki/List_of_RNA_structure_prediction_software
 
 https://en.wikipedia.org/wiki/Nucleic_acid_thermodynamics
 
+https://en.wikipedia.org/wiki/Internal_loop
+
+https://en.wikipedia.org/wiki/Stem-loop
+
+https://en.wikipedia.org/wiki/Pseudoknot
+
+https://en.wikipedia.org/wiki/Tetraloop
+
+https://en.wikipedia.org/wiki/Nucleic_acid_double_helix
+
 # Not our works, but still worth it :)
 
 ## TODO
+
+# RNA-related hints
+
+- Expect ~80% of all Mg ions in RNA-containing 3D structures to be garbage
+
+- Rfam families of riboswitches are usually aptamer-only and don't include the platforms
