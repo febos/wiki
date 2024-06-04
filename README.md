@@ -16,6 +16,8 @@
 
 [LORA](https://github.com/febos/LORA) - A dataset of long-range RNA 3D modules. DOI: [10.1093/nar/gkad605](https://doi.org/10.1093/nar/gkad605)
 
+[ARTEM-KT](https://github.com/febos/ARTEM-KT) - A dataset of kink-turn-like RNA 3D modules. DOI: [10.1101/2024.05.31.596898](https://doi.org/10.1101/2024.05.31.596898)
+
 # RNA-related hints
 
 - Expect ~80% of all Mg ions in RNA-containing 3D structures to be garbage
