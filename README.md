@@ -8,7 +8,7 @@
 
 [ARTEM](https://github.com/david-bogdan-r/ARTEM) - a tool for RNA tertiary motif search. DOI: [10.1093/nar/gkad605](https://doi.org/10.1093/nar/gkad605)
 
-[ARTEMIS](https://github.com/david-bogdan-r/ARTEMIS) - a tool for RNA 3D Structure Alignment. DOI: [10.1101/2024.04.06.588371](https://doi.org/10.1101/2024.04.06.588371)
+[ARTEMIS](https://github.com/david-bogdan-r/ARTEMIS) - a tool for RNA 3D Structure Alignment. DOI: [10.1093/nar/gkae758](https://doi.org/10.1093/nar/gkae758)
 
 ## Other Tools and Datasets
 
