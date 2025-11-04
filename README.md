@@ -18,7 +18,7 @@
 
 [LORA](https://github.com/febos/LORA) - A dataset of long-range RNA 3D modules. DOI: [10.1093/nar/gkad605](https://doi.org/10.1093/nar/gkad605)
 
-[GNRA](https://github.com/febos/GNRA) - A dataset of GNRA tetraloop-like RNA 3D modules. DOI: [10.1101/2025.07.03.663028](https://doi.org/10.1101/2025.07.03.663028)
+[GNRA](https://github.com/febos/GNRA) - A dataset of GNRA tetraloop-like RNA 3D modules. DOI: [10.1038/s41598-025-21072-9](https://doi.org/10.1038/s41598-025-21072-9)
 
 [ARTEM-KT](https://github.com/febos/ARTEM-KT) - A dataset of kink-turn-like RNA 3D modules. DOI: [10.1101/2024.05.31.596898](https://doi.org/10.1101/2024.05.31.596898)
 
