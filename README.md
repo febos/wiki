@@ -6,7 +6,7 @@
 
 ## RNA 3D Structure Alignment
 
-[ARTEM](https://github.com/david-bogdan-r/ARTEM) - a tool for RNA tertiary motif search. DOI: [10.1093/nar/gkad605](https://doi.org/10.1093/nar/gkad605)
+[ARTEM](https://github.com/david-bogdan-r/ARTEM) - a tool for RNA tertiary motif search. DOI: [10.1186/s13059-025-03696-2](https://doi.org/10.1186/s13059-025-03696-2)
 
 [ARTEMIS](https://github.com/david-bogdan-r/ARTEMIS) - a tool for RNA 3D Structure Alignment. DOI: [10.1093/nar/gkae758](https://doi.org/10.1093/nar/gkae758) ([Demo](https://github.com/david-bogdan-r/ARTEMIS/blob/main/demo.ipynb), [Tutorial](https://github.com/david-bogdan-r/ARTEMIS/blob/main/ARTEMIS_TUTORIAL_v1.51.pdf))
 
@@ -20,7 +20,7 @@
 
 [GNRA](https://github.com/febos/GNRA) - A dataset of GNRA tetraloop-like RNA 3D modules. DOI: [10.1038/s41598-025-21072-9](https://doi.org/10.1038/s41598-025-21072-9)
 
-[ARTEM-KT](https://github.com/febos/ARTEM-KT) - A dataset of kink-turn-like RNA 3D modules. DOI: [10.1101/2024.05.31.596898](https://doi.org/10.1101/2024.05.31.596898)
+[ARTEM-KT](https://github.com/febos/ARTEM-KT) - A dataset of kink-turn-like RNA 3D modules. DOI: [10.1186/s13059-025-03696-2](https://doi.org/10.1186/s13059-025-03696-2)
 
 # RNA-related hints
 
