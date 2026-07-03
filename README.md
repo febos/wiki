@@ -1,14 +1,16 @@
 # Our works
 
-## RNA Secondary Structure Prediction
+## LaRNAl Platform: [larnal.imol.institute](https://larnal.imol.institute/)
 
-[SQUARNA](https://github.com/febos/SQUARNA) - an RNA secondary structure prediction method based on a greedy stem formation model. DOI: [10.1101/2023.08.28.555103](https://doi.org/10.1101/2023.08.28.555103) ([available via pip install](https://github.com/febos/SQUARNA/blob/main/demo.ipynb))
+## RNA 2D Structure Prediction
+
+[SQUARNA](https://github.com/febos/SQUARNA) - RNA 2D structure prediction method based on a greedy stem formation model. DOI: [10.64898/2026.06.30.735492](https://doi.org/10.64898/2026.06.30.735492) ([available via pip install](https://github.com/febos/SQUARNA/blob/main/demo.ipynb) or [online](https://larnal.imol.institute/))
 
 ## RNA 3D Structure Alignment
 
-[ARTEM](https://github.com/david-bogdan-r/ARTEM) - a tool for RNA tertiary motif search. DOI: [10.1186/s13059-025-03696-2](https://doi.org/10.1186/s13059-025-03696-2)
+[ARTEM](https://github.com/david-bogdan-r/ARTEM) - a tool for RNA tertiary motif search. DOI: [10.1186/s13059-025-03696-2](https://doi.org/10.1186/s13059-025-03696-2); [available online](https://artemserver.genesilico.pl/motif_search)
 
-[ARTEMIS](https://github.com/david-bogdan-r/ARTEMIS) - a tool for RNA 3D Structure Alignment. DOI: [10.1093/nar/gkae758](https://doi.org/10.1093/nar/gkae758) ([Demo](https://github.com/david-bogdan-r/ARTEMIS/blob/main/demo.ipynb), [Tutorial](https://github.com/david-bogdan-r/ARTEMIS/blob/main/ARTEMIS_TUTORIAL_v1.51.pdf))
+[ARTEMIS](https://github.com/david-bogdan-r/ARTEMIS) - a tool for RNA 3D Structure Alignment. DOI: [10.1093/nar/gkae758](https://doi.org/10.1093/nar/gkae758) ([Demo](https://github.com/david-bogdan-r/ARTEMIS/blob/main/demo.ipynb), [Tutorial](https://github.com/david-bogdan-r/ARTEMIS/blob/main/ARTEMIS_TUTORIAL_v1.51.pdf), [Online](https://artemserver.genesilico.pl/))
 
 ## Other Tools and Datasets
 
